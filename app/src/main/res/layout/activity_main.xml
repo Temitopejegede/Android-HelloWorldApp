@@ -12,6 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginHorizontal="2dp"
         android:textAlignment="center"
+        android:textSize="20dp"
         android:textColor="@color/purple_500"
         android:text="@string/Temi_intro"
         app:layout_constraintEnd_toEndOf="parent"
