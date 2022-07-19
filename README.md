@@ -16,7 +16,6 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
 * Currently working on toggling a dark mode when the "Say Hello!" button is clicked
 
 ## Video Walkthrough
@@ -29,11 +28,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I did not have any challanges when building this project.
+I did not have any challenges when building this project.
 
 ## License
 
-    Copyright [2022] [Temitope Jegede]
+    Copyright 2022 Temitope Jegede
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
